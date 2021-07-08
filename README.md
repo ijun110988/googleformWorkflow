@@ -79,23 +79,3 @@ this.url =
 ```javascript
 this.flowHeader = "Department"; // IMPORTANT - key field for your flows
 ```
-
-### Screenshots
-
-- Requester notification
-  ![image](https://user-images.githubusercontent.com/16481229/97604066-0b086880-1a48-11eb-8263-56a027cc7040.png)
-
-- Approver notification
-  ![image](https://user-images.githubusercontent.com/16481229/97604220-35f2bc80-1a48-11eb-85b7-2852af65846e.png)
-- Approver action page
-  ![image](https://user-images.githubusercontent.com/16481229/97604638-aef21400-1a48-11eb-8a05-98288cbe96e6.png)
-
-- Requester notification (final result)
-  ![image](https://user-images.githubusercontent.com/16481229/97604372-5f134d00-1a48-11eb-8b8f-84748c0764bb.png)
-  ![image](https://user-images.githubusercontent.com/16481229/97605013-1ad47c80-1a49-11eb-9e30-ffec44331609.png)
-- Approval progress check page
-  ![image](https://user-images.githubusercontent.com/16481229/97605179-4c4d4800-1a49-11eb-8334-9591a4243890.png)
-
-- Reset UID
-  ![image](https://user-images.githubusercontent.com/16481229/97674096-e653d580-1ac7-11eb-8c12-e81c5d3150e2.png)
-
