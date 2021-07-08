@@ -26,12 +26,12 @@ const FLOWS = {
 	defaultFlow: [
 		{
 			email: "test@gmail.com",
-			name: "Ashton Fei (default 1)",
+			name: "wahyu (default 1)",
 			title: "Team Lead",
 		},
 		{
 			email: "test@gmail.com",
-			name: "Ashton Fei (default 2)",
+			name: "wahyu (default 2)",
 			title: "Manager",
 		},
 	],
