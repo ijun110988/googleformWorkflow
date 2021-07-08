@@ -8,10 +8,6 @@ This is an approval workflow built with Google Form, Gmail, and Google Apps Scri
 
 [Make a copy](https://docs.google.com/forms/d/10GCs_lLFg_kUnfLEAzjI6_W8YLhzugjc-G_lBPAUcIg/copy)
 
-### If you prefer to use clasp
-
-[GAS-059 How to use clasp](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-259) - [Watch on YouTube](https://youtu.be/V-oE2OyvTKM)
-
 ### Script Type
 
 Google Form
