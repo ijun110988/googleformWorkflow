@@ -99,7 +99,3 @@ this.flowHeader = "Department"; // IMPORTANT - key field for your flows
 - Reset UID
   ![image](https://user-images.githubusercontent.com/16481229/97674096-e653d580-1ac7-11eb-8c12-e81c5d3150e2.png)
 
-### YouTube
-
-- Check on YouTube [GAS-070 Google Form Approval](https://youtu.be/PtIo_oPoAtk)
-- More videos about [Google Apps Script](https://www.youtube.com/playlist?list=PLQhwjnEjYj8Bf_EZDrrcmkB9vcB9Sk3x0)
